@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1022332371116245002)](https://discord.com/users/:1022332371116245002)
 <!--
 **altar9/altar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
